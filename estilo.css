@@ -3,10 +3,18 @@
 body{
      background-color: rgb(174, 174, 255);
      color: white;
-     font-family: "Gravitas One";
+     font-family: "Gravitas One", serif;
      display: flex;
      justify-content: center;
      align-items: center;
+     height: 800px;
+    margin: 0;
+}
+
+button{
+     background-color: darkblue;
+     color: rgb(214, 228, 253);
+     padding: 20px;
 }
 
 .img01{
